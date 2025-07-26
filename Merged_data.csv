@@ -1,0 +1,212 @@
+Player_ID,Name,Base Price,Role_Auction,Price_Cr,Cost IN $ (000),Team,Role_Stats,ValueinCR,National Side,MatchPlayed,InningsBatted,NotOuts,RunsScored,100s,50s,4s,6s,BattingAVG,BattingS/R,CatchesTaken,StumpingsMade,Ducks,InningsBowled,Overs,Maidens,RunsConceded,Wickets,3s,5s,BowlingAVG,EconomyRate,S/R,Mtc,Cost_per_Run,Cost_per_Wicket,ROI,Price_z
+1,rashid khan,Draft Pick,BOWLER,15.0,1950.0,Gujarat Titans,Bowler,15.0,Afghanistan,76,35,11,222,0,0,17,13,9.25,137.03,20,0,11,76,302.0,4,1912,93,10,0,20.55,6.33,19.48,76,0.07,0.16,162.4,2.5363367601735387
+2,hardik pandya,Draft Pick,ALL-ROUNDER,15.0,1950.0,Gujarat Titans,All-Rounder,15.0,India,92,85,31,1476,0,4,97,98,27.33,153.91,53,0,5,60,144.5,0,1313,42,3,0,31.26,9.06,20.69,60,0.01,0.36,119.2,2.5363367601735387
+3,lockie ferguson,2 Cr,BOWLER,10.0,1300.0,Gujarat Titans,Bowler,10.0,New Zealand,22,6,6,62,0,0,5,2,0.0,151.22,3,0,2,22,79.5,1,648,24,2,0,27.0,8.11,19.95,22,0.16,0.42,63.1,1.3939646629280018
+4,rahul tewatia,40 Lakh,ALL-ROUNDER,9.0,1170.0,Gujarat Titans,All-Rounder,9.0,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,9.0,9.0,0.0,1.1654902434788943
+5,shubman gill,Draft Pick,BATTER,8.0,1040.0,Gujarat Titans,Batsman,8.0,India,58,55,10,1417,0,10,137,36,31.48,123.0,23,0,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,8.0,88.56,0.937015824029787
+6,yash dayal,20 Lakh,BOWLER,3.2,416.0,Gujarat Titans,Bowler,3.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,3.2,3.2,0.0,-0.1596613893259284
+7,david miller,1 Cr,BATTER,3.0,390.0,Gujarat Titans,Batsman,3.0,South Africa,89,86,26,1974,1,10,137,90,32.9,136.51,53,0,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,3.0,329.0,-0.20535627321574992
+8,matthew wade,2 Cr,WICKETKEEPER,2.4,312.0,Gujarat Titans,Wicket-Keeper,2.4,Australia,3,3,0,22,0,0,0,0,7.33,66.66,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.11,2.4,4.58,-0.3424409248852144
+9,alzarri joseph,75 Lakh,BOWLER,2.4,312.0,Gujarat Titans,Bowler,2.4,West Indies,3,2,2,15,0,0,2,0,0.0,115.38,1,0,1,3,8.4,1,87,6,0,1,14.5,10.03,8.66,3,0.16,0.4,65.62,-0.3424409248852144
+10,jason roy,2 Cr,BATTER,2.0,260.0,Gujarat Titans,Batsman,2.0,England,13,13,2,329,0,2,39,9,29.9,129.02,8,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,2.0,82.25,-0.43383069266485735
+11,wriddhiman saha,1 Cr,WICKETKEEPER,1.9,247.0,Gujarat Titans,Wicket-Keeper,1.9,India,133,108,22,2110,1,8,191,69,24.53,128.73,69,20,6,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,1.9,555.26,-0.4566781346097681
+12,jayant yadav,1 Cr,ALL-ROUNDER,1.7,221.0,Gujarat Titans,All-Rounder,1.7,India,19,5,1,40,0,0,2,1,10.0,111.11,6,0,1,19,61.0,0,419,8,0,0,52.37,6.86,45.75,19,0.04,0.21,129.41,-0.5023730184995896
+13,vijay shankar,50 Lakh,ALL-ROUNDER,1.4,182.0,Gujarat Titans,All-Rounder,1.4,India,47,39,12,712,0,3,45,28,26.37,126.24,21,0,3,20,38.1,0,329,9,0,0,36.55,8.62,25.44,20,0.0,0.16,415.0,-0.5709153443343218
+14,dominic drakes,75 Lakh,ALL-ROUNDER,1.1,143.0,Gujarat Titans,All-Rounder,1.1,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1.1,1.1,0.0,-0.639457670169054
+15,varun aaron,50 Lakh,BOWLER,0.5,65.0,Gujarat Titans,Bowler,0.5,India,50,13,8,50,0,0,2,2,10.0,69.44,3,0,5,48,160.4,2,1429,42,1,0,34.02,8.89,22.95,48,0.01,0.01,2150.0,-0.7765423218385185
+16,noor ahmad,30 Lakh,BOWLER,0.3,39.0,Gujarat Titans,Bowler,0.3,Afghanistan,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.3,0.3,0.0,-0.8222372057283399
+17,darshan nalkande,20 Lakh,ALL-ROUNDER,0.2,26.0,Gujarat Titans,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+18,pradeep sangwan,20 Lakh,ALL-ROUNDER,0.2,26.0,Gujarat Titans,All-Rounder,0.2,India,39,14,7,24,0,0,1,0,3.42,61.53,6,0,6,39,133.4,1,1175,35,3,0,33.57,8.79,22.91,39,0.01,0.01,4435.0,-0.8450846476732506
+19,ravindra jadeja,Retained,ALL-ROUNDER,16.0,2080.0,Chennai Super Kings,All-Rounder,16.0,India,200,151,63,2386,0,2,176,85,27.11,128.14,81,0,10,171,501.1,2,3816,127,8,1,30.04,7.61,23.67,171,0.01,0.13,273.0,2.764811179622646
+20,deepak chahar,2 Cr,BOWLER,14.0,1820.0,Chennai Super Kings,Bowler,14.0,India,63,12,5,79,0,0,2,6,11.28,138.59,12,0,4,63,220.4,6,1722,59,3,0,29.18,7.8,22.44,63,0.18,0.24,108.18,2.3078623407244314
+21,ms dhoni,Retained,WICKETKEEPER,12.0,1560.0,Chennai Super Kings,Wicket-Keeper,12.0,India,220,193,73,4746,0,23,325,219,39.55,135.83,126,39,5,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,12.0,197.75,1.8509135018262166
+22,moeen ali,Retained,ALL-ROUNDER,8.0,1040.0,Chennai Super Kings,All-Rounder,8.0,England,34,32,3,666,0,4,52,42,22.96,146.37,11,0,4,27,68.3,0,469,16,1,0,29.31,6.84,25.68,27,0.01,0.5,91.62,0.937015824029787
+23,ambati rayudu,2 Cr,WICKETKEEPER,6.75,877.5,Chennai Super Kings,Wicket-Keeper,6.75,India,175,164,31,3916,1,21,324,149,29.44,127.47,58,2,14,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,6.75,290.07,0.6514227997184028
+24,ruturaj gaikwad,Retained,BATTER,6.0,780.0,Chennai Super Kings,Batsman,6.0,India,22,22,4,839,1,7,80,29,46.61,132.12,10,0,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,6.0,69.92,0.48006698513157225
+25,dwayne bravo,2 Cr,ALL-ROUNDER,4.4,572.0,Chennai Super Kings,All-Rounder,4.4,West Indies,151,107,40,1537,0,5,119,65,22.94,130.25,77,0,8,148,485.3,2,4061,167,12,0,24.31,8.36,17.44,148,0.0,0.03,1123.52,0.11450791401300052
+26,shivam dube,50 Lakh,ALL-ROUNDER,4.0,520.0,Chennai Super Kings,All-Rounder,4.0,India,24,22,4,399,0,1,24,22,22.16,120.54,5,0,0,11,15.4,0,130,4,0,0,32.5,8.29,23.5,11,0.01,1.0,74.88,0.02311814623335748
+27,chris jordan,2 Cr,ALL-ROUNDER,3.6,468.0,Chennai Super Kings,All-Rounder,3.6,England,24,9,2,64,0,0,3,3,9.14,112.28,9,0,2,24,76.3,0,698,25,2,0,27.92,9.12,18.36,24,0.06,0.14,182.5,-0.06827162154628547
+28,robin uthappa,2 Cr,BATTER,2.0,260.0,Chennai Super Kings,Batsman,2.0,India,193,186,17,4722,0,25,462,168,27.94,130.15,87,32,7,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,2.0,1180.5,-0.43383069266485735
+29,mitchell santner,1 Cr,ALL-ROUNDER,1.9,247.0,Chennai Super Kings,All-Rounder,1.9,New Zealand,6,2,1,32,0,0,0,3,32.0,139.13,2,0,0,6,21.0,0,147,6,0,0,24.5,7.0,21.0,6,0.06,0.32,87.37,-0.4566781346097681
+30,adam milne,1.5 Cr,BOWLER,1.9,247.0,Chennai Super Kings,Bowler,1.9,New Zealand,9,6,2,23,0,0,0,1,5.75,79.31,7,0,2,9,32.0,0,308,7,0,0,44.0,9.62,27.42,9,0.08,0.27,98.16,-0.4566781346097681
+31,rajvardhan hangargekar,30 Lakh,ALL-ROUNDER,1.5,195.0,Chennai Super Kings,All-Rounder,1.5,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1.5,1.5,0.0,-0.548067902389411
+32,prashant solanki,20 Lakh,BOWLER,1.2,156.0,Chennai Super Kings,Bowler,1.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1.2,1.2,0.0,-0.6166102282241434
+33,devon conway,1 Cr,BATTER,1.0,130.0,Chennai Super Kings,Batsman,1.0,South Africa,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1.0,1.0,0.0,-0.6623051121139647
+34,maheesh theekshana,50 Lakh,BOWLER,0.7,91.0,Chennai Super Kings,Bowler,0.7,Sri Lanka,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.7,0.7,0.0,-0.730847437948697
+35,dwaine pretorius,50 Lakh,ALL-ROUNDER,0.5,65.0,Chennai Super Kings,All-Rounder,0.5,South Africa,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+36,simarjeet singh,20 Lakh,BOWLER,0.2,26.0,Chennai Super Kings,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+37,tushar deshpande,20 Lakh,BOWLER,0.2,26.0,Chennai Super Kings,Bowler,0.2,India,5,2,1,21,0,0,2,1,21.0,175.0,1,0,0,5,17.0,0,192,3,0,0,64.0,11.29,34.0,5,0.01,0.07,427.5,-0.8450846476732506
+38,subhranshu senapati,20 Lakh,BATTER,0.2,26.0,Chennai Super Kings,Batsman,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+39,mukesh choudhary,20 Lakh,BOWLER,0.2,26.0,Chennai Super Kings,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+40,rishabh pant,Retained,WICKETKEEPER,16.0,2080.0,Delhi Capitals,Wicket-Keeper,16.0,India,84,84,13,2498,1,15,225,113,35.18,147.46,56,14,4,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,16.0,78.06,2.764811179622646
+41,shardul thakur,2 Cr,BOWLER,10.75,1397.5,Delhi Capitals,Bowler,10.75,India,61,14,6,53,0,0,5,1,6.62,112.76,17,0,5,60,210.0,2,1867,67,5,0,27.86,8.89,18.8,60,0.2,0.16,158.28,1.5653204775148324
+42,axar patel,Retained,ALL-ROUNDER,9.0,1170.0,Delhi Capitals,All-Rounder,9.0,India,109,78,23,953,0,0,55,44,17.32,125.23,44,0,7,108,382.3,2,2762,95,3,0,29.07,7.22,24.15,108,0.01,0.09,316.83,1.1654902434788943
+43,prithvi shaw,Retained,BATTER,7.5,975.0,Delhi Capitals,Batsman,7.5,India,53,53,0,1305,0,10,155,45,24.62,146.3,11,0,4,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,7.5,87.0,0.8227786143052334
+44,mitchell marsh,2 Cr,ALL-ROUNDER,6.5,845.0,Delhi Capitals,All-Rounder,6.5,Australia,21,15,2,225,0,0,9,14,17.3,114.21,7,0,1,19,53.1,0,420,20,0,0,21.0,7.89,15.95,19,0.03,0.32,94.23,0.594304194856126
+45,anrich nortje,Retained,BOWLER,6.5,845.0,Delhi Capitals,Bowler,6.5,South Africa,24,5,4,7,0,0,0,0,7.0,116.66,5,0,2,24,91.2,1,699,34,2,0,20.55,7.65,16.11,24,0.93,0.19,131.31,0.594304194856126
+46,david warner,2 Cr,BATTER,6.25,812.5,Delhi Capitals,Batsman,6.25,Australia,150,150,19,5449,4,50,525,201,41.59,139.96,68,0,8,1,0.1,0,2,1,0,0,0.0,12.0,0.0,1,0.0,6.25,439.92,0.5371855899938491
+47,chetan sakariya,50 Lakh,BOWLER,4.2,546.0,Delhi Capitals,Bowler,4.2,India,14,6,1,16,0,0,2,0,3.2,64.0,4,0,2,14,52.0,1,426,14,2,0,30.42,8.19,22.28,14,0.26,0.3,85.24,0.06881303012317899
+48,rovman powell,75 Lakh,BATTER,2.8,364.0,Delhi Capitals,Batsman,2.8,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,2.8,2.8,0.0,-0.25105115710557147
+49,mustafizur rahman,2 Cr,BOWLER,2.0,260.0,Delhi Capitals,Bowler,2.0,Bangladesh,38,7,6,9,0,0,0,1,9.0,52.94,5,0,5,38,143.0,1,1121,38,3,0,29.5,7.83,22.57,38,0.22,0.05,477.25,-0.43383069266485735
+50,kuldeep yadav,1 Cr,BOWLER,2.0,260.0,Delhi Capitals,Bowler,2.0,India,45,11,5,57,0,0,5,0,9.5,76.0,11,0,3,43,149.2,0,1236,40,2,0,30.9,8.27,22.4,43,0.04,0.05,514.25,-0.43383069266485735
+51,kamlesh nagarkoti,40 Lakh,ALL-ROUNDER,1.1,143.0,Delhi Capitals,All-Rounder,1.1,India,11,7,3,22,0,0,1,0,5.5,66.66,4,0,2,10,28.0,0,256,5,0,0,51.2,9.14,33.6,10,0.05,0.22,123.64,-0.639457670169054
+52,mandeep singh,50 Lakh,BATTER,1.1,143.0,Delhi Capitals,Batsman,1.1,India,105,92,16,1674,0,6,172,37,22.02,124.09,37,0,12,2,2.0,0,26,1,0,0,0.0,13.0,0.0,2,0.0,1.1,783.64,-0.639457670169054
+53,lalit yadav,20 Lakh,ALL-ROUNDER,0.65,84.5,Delhi Capitals,All-Rounder,0.65,India,7,5,3,68,0,0,7,0,34.0,93.15,5,0,1,5,14.0,0,101,4,0,0,25.25,7.21,21.0,5,0.01,0.16,206.15,-0.7422711589211524
+54,tim seifert,50 Lakh,WICKETKEEPER,0.5,65.0,Delhi Capitals,Wicket-Keeper,0.5,New Zealand,1,1,0,2,0,0,0,0,2.0,50.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.25,0.5,2.0,-0.7765423218385185
+55,pravin dubey,20 Lakh,ALL-ROUNDER,0.5,65.0,Delhi Capitals,All-Rounder,0.5,India,3,1,1,7,0,0,0,0,0.0,53.84,1,0,0,3,8.0,0,72,1,0,0,0.0,9.0,0.0,3,0.07,0.5,57.0,-0.7765423218385185
+56,yash dhull,20 Lakh,ALL-ROUNDER,0.5,65.0,Delhi Capitals,All-Rounder,0.5,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+57,ashwin hebbar,20 Lakh,BATTER,0.2,26.0,Delhi Capitals,Batsman,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+58,sarfaraz khan,20 Lakh,ALL-ROUNDER,0.2,26.0,Delhi Capitals,All-Rounder,0.2,India,40,28,9,441,0,1,50,11,23.21,138.24,6,0,4,1,0.2,0,6,1,0,0,0.0,18.0,0.0,1,0.0,0.2,1227.5,-0.8450846476732506
+59,ripal patel,20 Lakh,ALL-ROUNDER,0.2,26.0,Delhi Capitals,All-Rounder,0.2,India,2,2,1,25,0,0,3,0,25.0,92.59,0,0,0,1,3.0,0,22,1,0,0,0.0,7.33,0.0,1,0.01,0.2,187.5,-0.8450846476732506
+60,vicky ostwal,20 Lakh,ALL-ROUNDER,0.2,26.0,Delhi Capitals,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+61,shreyas iyer,2 Cr,BATTER,12.25,1592.5,Kolkata Knight Riders,Batsman,12.25,India,87,87,12,2375,0,16,196,88,31.66,123.95,34,0,6,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,12.25,96.94,1.9080321066884935
+62,andre russell,Retained,ALL-ROUNDER,12.0,1560.0,Kolkata Knight Riders,All-Rounder,12.0,West Indies,84,70,12,1700,0,9,119,143,29.31,178.57,25,0,3,76,210.1,0,1901,72,6,1,26.4,9.04,17.51,76,0.01,0.17,220.83,1.8509135018262166
+63,nitish rana,1 Cr,ALL-ROUNDER,8.0,1040.0,Kolkata Knight Riders,All-Rounder,8.0,India,77,71,7,1820,0,13,161,89,28.43,132.46,15,0,6,16,19.1,0,154,7,0,0,22.0,8.03,16.42,16,0.0,1.14,135.62,0.937015824029787
+64,venkatesh iyer,Retained,ALL-ROUNDER,8.0,1040.0,Kolkata Knight Riders,All-Rounder,8.0,India,10,10,1,370,0,4,37,14,41.11,128.47,7,0,0,4,8.3,0,69,3,0,0,23.0,8.11,17.0,4,0.02,2.67,32.5,0.937015824029787
+65,pat cummins,2 Cr,ALL-ROUNDER,7.25,942.5,Kolkata Knight Riders,All-Rounder,7.25,Australia,37,26,10,316,0,2,19,20,19.75,140.44,7,0,4,37,139.0,1,1145,38,2,0,30.13,8.23,21.94,37,0.02,0.19,152.83,0.7656600094429565
+66,shivam mavi,40 Lakh,ALL-ROUNDER,7.25,942.5,Kolkata Knight Riders,All-Rounder,7.25,India,26,9,2,48,0,0,4,2,6.85,97.95,12,0,3,26,86.1,2,715,25,0,0,28.6,8.29,20.68,26,0.15,0.29,89.52,0.7656600094429565
+67,sunil narine,Retained,ALL-ROUNDER,6.0,780.0,Kolkata Knight Riders,All-Rounder,6.0,West Indies,134,76,15,954,0,4,106,57,15.63,161.69,21,0,13,133,520.1,3,3508,143,6,1,24.53,6.74,21.82,133,0.01,0.04,675.33,0.48006698513157225
+68,sam billings,2 Cr,WICKETKEEPER,2.0,260.0,Kolkata Knight Riders,Wicket-Keeper,2.0,England,22,19,0,334,0,3,31,10,17.57,133.6,13,0,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,2.0,83.5,-0.43383069266485735
+69,umesh yadav,2 Cr,BOWLER,2.0,260.0,Kolkata Knight Riders,Bowler,2.0,India,121,38,24,122,0,0,11,4,8.71,95.31,29,0,11,120,420.2,3,3579,119,12,0,30.07,8.51,21.19,120,0.02,0.02,1518.0,-0.43383069266485735
+70,tim southee,1.5 Cr,BOWLER,1.5,195.0,Kolkata Knight Riders,Bowler,1.5,New Zealand,43,15,6,118,0,0,8,4,13.11,124.21,19,0,1,43,160.0,2,1388,31,2,0,44.77,8.67,30.96,43,0.01,0.05,556.0,-0.548067902389411
+71,alex hales,1.5 Cr,BATTER,1.5,195.0,Kolkata Knight Riders,Batsman,1.5,England,6,6,0,148,0,0,13,6,24.66,125.42,2,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,1.5,49.33,-0.548067902389411
+72,ajinkya rahane,1 Cr,BATTER,1.0,130.0,Kolkata Knight Riders,Batsman,1.0,India,151,141,16,3941,2,28,417,76,31.52,121.33,58,0,13,1,1.0,0,5,1,0,0,5.0,5.0,6.0,1,0.0,1.0,1995.5,-0.6623051121139647
+73,mohammad nabi,1 Cr,ALL-ROUNDER,1.0,130.0,Kolkata Knight Riders,All-Rounder,1.0,Afghanistan,17,14,2,180,0,0,16,9,15.0,151.26,11,0,0,17,57.1,0,408,13,0,0,31.38,7.13,26.38,17,0.01,0.08,415.0,-0.6623051121139647
+74,sheldon jackson,30 Lakh,WICKETKEEPER,0.6,78.0,Kolkata Knight Riders,Wicket-Keeper,0.6,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.6,0.6,0.0,-0.7536948798936076
+75,rinku singh,20 Lakh,BATTER,0.55,71.5,Kolkata Knight Riders,Batsman,0.55,India,10,8,1,77,0,0,6,2,11.0,101.31,6,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,0.55,70.0,-0.765118600866063
+76,ashok sharma,20 Lakh,BOWLER,0.55,71.5,Kolkata Knight Riders,Bowler,0.55,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.55,0.55,0.0,-0.765118600866063
+77,chamika karunaratne,50 Lakh,ALL-ROUNDER,0.5,65.0,Kolkata Knight Riders,All-Rounder,0.5,Sri Lanka,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+78,abhijeet tomar,20 Lakh,BATTER,0.4,52.0,Kolkata Knight Riders,Batsman,0.4,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.4,0.4,0.0,-0.7993897637834292
+79,rasikh dar,20 Lakh,BOWLER,0.2,26.0,Kolkata Knight Riders,Bowler,0.2,India,1,1,1,5,0,0,0,0,0.0,125.0,1,0,0,1,4.0,0,42,1,0,0,0.0,10.5,0.0,1,0.04,0.2,137.5,-0.8450846476732506
+80,anukul roy,20 Lakh,ALL-ROUNDER,0.2,26.0,Kolkata Knight Riders,All-Rounder,0.2,India,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0,1,2.0,0,11,1,0,0,11.0,5.5,12.0,1,0.2,0.2,125.0,-0.8450846476732506
+81,baba indrajith,20 Lakh,WICKETKEEPER,0.2,26.0,Kolkata Knight Riders,Wicket-Keeper,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+82,aman khan,20 Lakh,ALL-ROUNDER,0.2,26.0,Kolkata Knight Riders,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+83,ramesh kumar,20 Lakh,BATTER,0.2,26.0,Kolkata Knight Riders,Batsman,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+84,pratham singh,20 Lakh,BATTER,0.2,26.0,Kolkata Knight Riders,Batsman,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+85,mayank agarwal,Retained,BATTER,12.0,1560.0,Punjab Kings,Batsman,12.0,India,100,95,4,2131,1,11,203,85,23.41,135.47,40,0,6,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,12.0,88.79,1.8509135018262166
+86,liam livingstone,1 Cr,ALL-ROUNDER,11.5,1495.0,Punjab Kings,All-Rounder,11.5,England,9,9,1,112,0,0,9,6,14.0,125.84,7,0,0,1,1.0,0,13,1,0,0,0.0,13.0,0.0,1,0.1,11.5,7.04,1.736676292101663
+87,kagiso rabada,2 Cr,BOWLER,9.25,1202.5,Punjab Kings,Bowler,9.25,South Africa,50,18,8,138,0,0,11,4,13.8,102.98,23,0,5,50,190.0,2,1560,76,4,0,20.52,8.21,15.0,50,0.07,0.12,212.86,1.2226088483411712
+88,shahrukh khan,40 Lakh,ALL-ROUNDER,9.0,1170.0,Punjab Kings,All-Rounder,9.0,India,11,10,3,153,0,0,9,10,21.85,134.21,4,0,1,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.06,9.0,8.5,1.1654902434788943
+89,shikhar dhawan,2 Cr,BATTER,8.25,1072.5,Punjab Kings,Batsman,8.25,India,192,191,25,5784,2,44,654,124,34.84,126.64,82,0,11,6,8.0,0,66,4,0,0,16.5,8.25,12.0,6,0.0,2.06,362.67,0.9941344288920638
+90,jonny bairstow,1.5 Cr,WICKETKEEPER,6.75,877.5,Punjab Kings,Wicket-Keeper,6.75,England,28,28,3,1038,1,7,99,46,41.52,142.19,18,4,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,6.75,76.89,0.6514227997184028
+91,odean smith,1 Cr,ALL-ROUNDER,6.0,780.0,Punjab Kings,All-Rounder,6.0,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,6.0,6.0,0.0,0.48006698513157225
+92,rahul chahar,75 Lakh,BOWLER,5.25,682.5,Punjab Kings,Bowler,5.25,India,42,11,4,31,0,0,3,0,4.42,96.87,11,0,4,41,150.0,0,1117,43,3,0,25.97,7.44,20.93,41,0.17,0.12,207.71,0.30871117054474173
+93,arshdeep singh,Retained,BOWLER,4.0,520.0,Punjab Kings,Bowler,4.0,India,23,3,2,2,0,0,0,0,2.0,33.33,6,0,1,23,76.1,1,669,30,3,1,22.3,8.78,15.23,23,2.0,0.13,187.75,0.02311814623335748
+94,harpreet brar,20 Lakh,ALL-ROUNDER,3.8,494.0,Punjab Kings,All-Rounder,3.8,India,10,6,6,84,0,0,5,3,0.0,120.0,2,0,0,10,32.0,1,228,5,1,0,45.6,7.12,38.4,10,0.05,0.76,43.95,-0.022576737656464042
+95,vaibhav arora,20 Lakh,BOWLER,2.0,260.0,Punjab Kings,Bowler,2.0,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,2.0,2.0,0.0,-0.43383069266485735
+96,nathan ellis,75 Lakh,BOWLER,0.75,97.5,Punjab Kings,Bowler,0.75,Australia,3,2,1,18,0,0,0,1,18.0,112.5,0,0,0,3,11.0,0,90,1,0,0,90.0,8.18,66.0,3,0.04,0.75,45.33,-0.7194237169762416
+97,prabhsimran singh,20 Lakh,WICKETKEEPER,0.6,78.0,Punjab Kings,Wicket-Keeper,0.6,India,5,5,0,50,0,0,4,2,10.0,90.9,2,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,0.6,41.67,-0.7536948798936076
+98,rishi dhawan,50 Lakh,ALL-ROUNDER,0.55,71.5,Punjab Kings,All-Rounder,0.55,India,26,17,10,153,0,0,13,4,21.85,113.33,6,0,2,25,81.2,1,640,18,0,0,35.55,7.86,27.11,25,0.0,0.03,957.27,-0.765118600866063
+99,sandeep sharma,50 Lakh,BOWLER,0.5,65.0,Punjab Kings,Bowler,0.5,India,99,25,19,52,0,0,4,0,8.66,81.25,12,0,9,99,366.2,8,2849,112,9,0,25.43,7.77,19.62,99,0.01,0.0,5652.0,-0.7765423218385185
+100,bhanuka rajapaksa,50 Lakh,BATTER,0.5,65.0,Punjab Kings,Batsman,0.5,Sri Lanka,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+101,benny howell,40 Lakh,ALL-ROUNDER,0.4,52.0,Punjab Kings,All-Rounder,0.4,England,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.4,0.4,0.0,-0.7993897637834292
+102,ishan porel,20 Lakh,BOWLER,0.25,32.5,Punjab Kings,Bowler,0.25,India,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0,1,4.0,0,39,1,0,0,39.0,9.75,24.0,1,0.25,0.25,100.0,-0.8336609267007953
+103,prerak mankad,20 Lakh,ALL-ROUNDER,0.2,26.0,Punjab Kings,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+104,ansh patel,20 Lakh,ALL-ROUNDER,0.2,26.0,Punjab Kings,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+105,jitesh sharma,20 Lakh,WICKETKEEPER,0.2,26.0,Punjab Kings,Wicket-Keeper,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+106,writtick chatterjee,20 Lakh,ALL-ROUNDER,0.2,26.0,Punjab Kings,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+107,atharva taide,20 Lakh,ALL-ROUNDER,0.2,26.0,Punjab Kings,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+108,kl rahul,Draft Pick,WICKETKEEPER,17.0,2210.0,Lucknow Super Giants,Wicket-Keeper,17.0,India,94,85,16,3273,2,27,282,134,47.43,136.37,50,5,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,17.0,96.26,2.9932855990717537
+109,avesh khan,20 Lakh,BOWLER,10.0,1300.0,Lucknow Super Giants,Bowler,10.0,India,25,2,1,9,0,0,2,0,9.0,150.0,5,0,0,25,91.0,0,749,29,4,0,25.82,8.23,18.82,25,1.11,0.34,72.95,1.3939646629280018
+110,marcus stoinis,Draft Pick,ALL-ROUNDER,9.2,1196.0,Lucknow Super Giants,All-Rounder,9.2,Australia,56,49,16,914,0,4,76,35,27.69,135.81,12,0,5,45,102.0,0,969,30,2,0,32.3,9.5,20.4,45,0.01,0.31,131.2,1.2111851273687158
+111,jason holder,1.5 Cr,ALL-ROUNDER,8.75,1137.5,Lucknow Super Giants,All-Rounder,8.75,West Indies,26,16,3,189,0,0,11,11,14.53,121.15,7,0,1,26,95.5,0,786,35,5,0,22.45,8.2,16.42,26,0.05,0.25,110.8,1.1083716386166176
+112,krunal pandya,2 Cr,ALL-ROUNDER,8.25,1072.5,Lucknow Super Giants,All-Rounder,8.25,India,84,72,22,1143,0,1,105,46,22.86,138.54,28,0,6,81,240.4,0,1773,51,4,0,34.76,7.36,28.31,81,0.01,0.16,223.82,0.9941344288920638
+113,mark wood,2 Cr,BOWLER,7.5,975.0,Lucknow Super Giants,Bowler,7.5,England,1,1,0,1,0,0,0,0,1.0,33.33,1,0,0,1,4.0,0,49,1,0,0,0.0,12.25,0.0,1,7.5,7.5,3.4,0.8227786143052334
+114,quinton de kock,2 Cr,WICKETKEEPER,6.75,877.5,Lucknow Super Giants,Wicket-Keeper,6.75,South Africa,77,77,5,2256,1,16,230,83,31.33,130.93,53,14,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,6.75,167.11,0.6514227997184028
+115,deepak hooda,75 Lakh,ALL-ROUNDER,5.75,747.5,Lucknow Super Giants,All-Rounder,5.75,India,80,61,14,785,0,3,41,38,16.7,129.53,32,0,3,28,54.1,0,458,9,0,0,50.88,8.45,36.11,28,0.01,0.64,107.39,0.42294838026929543
+116,manish pandey,1 Cr,BATTER,4.6,598.0,Lucknow Super Giants,Batsman,4.6,India,154,143,27,3560,1,21,309,103,30.68,121.83,75,0,13,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,4.6,386.96,0.16020279790282183
+117,ravi bishnoi,Draft Pick,BOWLER,4.0,520.0,Lucknow Super Giants,Bowler,4.0,India,23,4,2,8,0,0,1,0,4.0,50.0,4,0,1,23,87.0,1,606,24,3,0,25.25,6.96,21.75,23,0.5,0.17,151.0,0.02311814623335748
+118,evin lewis,2 Cr,BATTER,2.0,260.0,Lucknow Super Giants,Batsman,2.0,Trinidad,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,2.0,2.0,0.0,-0.43383069266485735
+119,kyle mayers,50 Lakh,ALL-ROUNDER,0.5,65.0,Lucknow Super Giants,All-Rounder,0.5,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+120,shahbaz nadeem,50 Lakh,BOWLER,0.5,65.0,Lucknow Super Giants,Bowler,0.5,India,72,22,8,39,0,0,2,0,2.78,44.82,16,0,9,70,235.5,2,1784,48,1,0,37.16,7.56,29.47,70,0.01,0.01,2439.0,-0.7765423218385185
+121,manan vohra,20 Lakh,BATTER,0.2,26.0,Lucknow Super Giants,Batsman,0.2,India,53,49,2,1054,0,3,102,41,22.42,130.6,13,0,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,0.2,2635.0,-0.8450846476732506
+122,karan sharma,20 Lakh,ALL-ROUNDER,0.2,26.0,Lucknow Super Giants,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+123,ayush badoni,20 Lakh,ALL-ROUNDER,0.2,26.0,Lucknow Super Giants,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+124,mohsin khan,20 Lakh,BOWLER,0.2,26.0,Lucknow Super Giants,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+125,mayank yadav,20 Lakh,BOWLER,0.2,26.0,Lucknow Super Giants,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+126,rohit sharma,Retained,BATTER,16.0,2080.0,Mumbai Indians,Batsman,16.0,India,213,208,28,5611,1,40,491,227,31.17,130.39,90,0,13,32,56.3,0,453,15,1,0,30.2,8.01,22.6,32,0.0,1.07,198.78,2.764811179622646
+127,ishan kishan,2 Cr,WICKETKEEPER,15.25,1982.5,Mumbai Indians,Wicket-Keeper,15.25,India,61,56,5,1452,0,9,121,74,28.47,136.33,19,2,5,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,15.25,47.61,2.593455365035816
+128,jasprit bumrah,Retained,BOWLER,12.0,1560.0,Mumbai Indians,Bowler,12.0,India,106,20,15,56,0,0,4,1,11.2,96.55,13,0,7,106,403.4,5,2997,130,14,0,23.05,7.42,18.63,106,0.21,0.09,273.17,1.8509135018262166
+129,tim david,40 Lakh,ALL-ROUNDER,8.25,1072.5,Mumbai Indians,All-Rounder,8.25,Singapore,1,1,0,1,0,0,0,0,1.0,33.33,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,8.25,8.25,0.06,0.9941344288920638
+130,jofra archer,2 Cr,ALL-ROUNDER,8.0,1040.0,Mumbai Indians,All-Rounder,8.0,England,35,23,10,195,0,0,11,14,15.0,157.25,9,0,5,35,137.3,2,981,46,6,0,21.32,7.13,17.93,35,0.04,0.17,155.94,0.937015824029787
+131,suryakumar yadav,Retained,BATTER,8.0,1040.0,Mumbai Indians,Batsman,8.0,India,115,100,19,2341,0,13,261,68,28.9,135.71,55,0,7,1,1.0,0,8,1,0,0,0.0,8.0,0.0,1,0.0,8.0,149.44,0.937015824029787
+132,kieron pollard,Retained,ALL-ROUNDER,6.0,780.0,Mumbai Indians,All-Rounder,6.0,West Indies,178,160,51,3268,0,16,212,214,29.98,149.77,96,0,8,101,234.0,0,2055,65,2,0,31.61,8.78,21.6,101,0.0,0.09,543.17,0.48006698513157225
+133,dewald brevis,20 Lakh,BATTER,3.0,390.0,Mumbai Indians,Batsman,3.0,South Africa,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,3.0,3.0,0.0,-0.20535627321574992
+134,daniel sams,1 Cr,ALL-ROUNDER,2.6,338.0,Mumbai Indians,All-Rounder,2.6,Australia,5,3,1,6,0,0,0,0,3.0,75.0,3,0,1,5,18.0,0,153,1,0,0,153.0,8.5,108.0,5,0.43,2.6,10.77,-0.29674604099539287
+135,murugan ashwin,20 Lakh,BOWLER,1.6,208.0,Mumbai Indians,Bowler,1.6,India,34,8,2,23,0,0,1,0,3.83,63.88,7,0,1,34,112.0,0,881,26,2,0,33.88,7.86,25.84,34,0.07,0.06,413.44,-0.5252204604445002
+136,tymal mills,1 Cr,BOWLER,1.5,195.0,Mumbai Indians,Bowler,1.5,England,5,3,0,8,0,0,0,1,2.66,72.72,1,0,1,5,17.5,0,153,5,0,0,30.6,8.57,21.4,5,0.19,0.3,86.0,-0.548067902389411
+137,jaydev unadkat,75 Lakh,BOWLER,1.3,169.0,Mumbai Indians,Bowler,1.3,India,86,21,12,105,0,0,9,3,11.66,109.37,24,0,8,85,296.0,3,2588,85,5,2,30.44,8.74,20.89,85,0.01,0.02,1675.0,-0.5937627862792324
+138,riley meredith,1 Cr,BOWLER,1.0,130.0,Mumbai Indians,Bowler,1.0,Australia,5,1,1,1,0,0,0,0,0.0,0.0,0,0,1,5,17.0,0,169,4,0,0,42.25,9.94,25.5,5,1.0,0.25,100.5,-0.6623051121139647
+139,fabian allen,75 Lakh,ALL-ROUNDER,0.75,97.5,Mumbai Indians,All-Rounder,0.75,West Indies,4,3,2,6,0,0,0,0,6.0,50.0,2,0,2,3,11.0,1,90,1,0,0,90.0,8.18,66.0,3,0.12,0.75,37.33,-0.7194237169762416
+140,mayank markande,50 Lakh,BOWLER,0.65,84.5,Mumbai Indians,Bowler,0.65,India,18,8,5,27,0,0,3,0,9.0,93.1,3,0,2,18,53.0,0,453,16,1,0,28.31,8.54,19.87,18,0.02,0.04,636.15,-0.7422711589211524
+141,sanjay yadav,20 Lakh,ALL-ROUNDER,0.5,65.0,Mumbai Indians,All-Rounder,0.5,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+142,arjun tendulkar,20 Lakh,ALL-ROUNDER,0.3,39.0,Mumbai Indians,All-Rounder,0.3,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.3,0.3,0.0,-0.8222372057283399
+143,basil thampi,30 Lakh,BOWLER,0.3,39.0,Mumbai Indians,Bowler,0.3,India,20,8,7,32,0,0,1,1,32.0,91.42,4,0,2,20,70.5,0,694,17,1,0,40.82,9.79,25.0,20,0.01,0.02,1470.0,-0.8222372057283399
+144,anmolpreet singh,20 Lakh,BATTER,0.2,26.0,Mumbai Indians,Batsman,0.2,India,1,1,0,16,0,0,2,1,16.0,114.28,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,0.2,40.0,-0.8450846476732506
+145,aryan juyal,20 Lakh,WICKETKEEPER,0.2,26.0,Mumbai Indians,Wicket-Keeper,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+146,ramandeep singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Mumbai Indians,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+147,rahul buddhi,20 Lakh,BATTER,0.2,26.0,Mumbai Indians,Batsman,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+148,hrithik shokeen,20 Lakh,ALL-ROUNDER,0.2,26.0,Mumbai Indians,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+149,virat kohli,Retained,BATTER,15.0,1950.0,Royal Challengers Bangalore,Batsman,15.0,India,207,199,31,6283,5,42,546,210,37.39,129.94,84,0,6,26,41.5,0,368,4,0,0,92.0,8.79,62.75,26,0.0,3.75,216.1,2.5363367601735387
+150,glenn maxwell,Retained,ALL-ROUNDER,11.0,1430.0,Royal Challengers Bangalore,All-Rounder,11.0,Australia,97,93,13,2018,0,12,166,112,25.22,151.84,35,0,12,56,107.0,0,915,22,0,0,41.59,8.55,29.18,56,0.01,0.5,141.73,1.622439082377109
+151,wanindu hasaranga,1 Cr,ALL-ROUNDER,10.75,1397.5,Royal Challengers Bangalore,All-Rounder,10.75,Sri Lanka,2,2,1,1,0,0,0,0,1.0,50.0,0,0,1,2,6.0,0,60,1,0,0,0.0,10.0,0.0,2,10.75,10.75,2.37,1.5653204775148324
+152,harshal patel,2 Cr,ALL-ROUNDER,10.75,1397.5,Royal Challengers Bangalore,All-Rounder,10.75,India,63,28,11,187,0,0,11,11,11.0,134.53,15,0,9,61,210.4,0,1808,78,6,1,23.17,8.58,16.2,61,0.06,0.14,190.09,1.5653204775148324
+153,josh hazlewood,2 Cr,BOWLER,7.75,1007.5,Royal Challengers Bangalore,Bowler,7.75,Australia,12,0,0,0,0,0,0,0,0.0,0.0,1,0,0,12,45.0,0,357,12,1,0,29.75,7.93,22.5,12,7.75,0.65,38.71,0.8798972191675102
+154,faf du plessis,2 Cr,BATTER,7.0,910.0,Royal Challengers Bangalore,Batsman,7.0,South Africa,100,93,9,2935,0,22,265,96,34.94,131.08,66,0,5,1,1.0,0,16,1,0,0,0.0,16.0,0.0,1,0.0,7.0,213.21,0.7085414045806797
+155,mohammed siraj,Retained,BOWLER,7.0,910.0,Royal Challengers Bangalore,Bowler,7.0,India,50,15,10,66,0,0,5,2,13.2,86.84,16,0,5,50,171.2,4,1437,50,3,0,28.74,8.38,20.56,50,0.11,0.14,183.29,0.7085414045806797
+156,dinesh karthik,2 Cr,WICKETKEEPER,5.5,715.0,Royal Challengers Bangalore,Wicket-Keeper,5.5,India,213,192,35,4046,0,19,399,112,25.77,129.72,123,32,14,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,5.5,367.82,0.36582977540701855
+157,anuj rawat,20 Lakh,WICKETKEEPER,3.4,442.0,Royal Challengers Bangalore,Wicket-Keeper,3.4,India,2,1,0,1,0,0,0,0,0.0,0.0,3,0,1,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,3.4,3.4,0.15,-0.11396650543610698
+158,david willey,2 Cr,ALL-ROUNDER,2.0,260.0,Royal Challengers Bangalore,All-Rounder,2.0,England,3,0,0,0,0,0,0,0,0.0,0.0,2,0,0,3,10.0,0,95,2,0,0,47.5,9.5,30.0,3,2.0,1.0,25.0,-0.43383069266485735
+159,sherfane rutherford,1 Cr,ALL-ROUNDER,1.0,130.0,Royal Challengers Bangalore,All-Rounder,1.0,West Indies,7,7,2,73,0,0,2,7,14.6,135.18,5,0,0,6,6.5,0,59,1,0,0,59.0,8.63,41.0,6,0.01,1.0,61.5,-0.6623051121139647
+160,mahipal lomror,40 Lakh,ALL-ROUNDER,0.95,123.5,Royal Challengers Bangalore,All-Rounder,0.95,India,11,10,2,181,0,0,8,9,22.62,119.86,1,0,0,6,10.0,0,74,1,0,0,74.0,7.4,60.0,6,0.01,0.95,121.58,-0.6737288330864202
+161,finn allen,50 Lakh,BATTER,0.8,104.0,Royal Challengers Bangalore,Batsman,0.8,New Zealand,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.8,0.8,0.0,-0.7079999960037862
+162,jason behrendorff,75 Lakh,BOWLER,0.75,97.5,Royal Challengers Bangalore,Bowler,0.75,Australia,5,0,0,0,0,0,0,0,0.0,0.0,0,0,0,5,19.0,0,165,5,0,0,33.0,8.68,22.8,5,0.75,0.15,166.67,-0.7194237169762416
+163,karn sharma,50 Lakh,BOWLER,0.5,65.0,Royal Challengers Bangalore,Bowler,0.5,India,68,35,14,317,0,0,18,14,15.09,115.69,14,0,2,66,203.4,1,1610,59,2,0,27.28,7.9,20.71,66,0.0,0.01,3267.0,-0.7765423218385185
+164,suyash prabhudessai,20 Lakh,ALL-ROUNDER,0.3,39.0,Royal Challengers Bangalore,All-Rounder,0.3,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.3,0.3,0.0,-0.8222372057283399
+165,chama milind,20 Lakh,BOWLER,0.25,32.5,Royal Challengers Bangalore,Bowler,0.25,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.25,0.25,0.0,-0.8336609267007953
+166,akash deep,20 Lakh,BOWLER,0.2,26.0,Royal Challengers Bangalore,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+167,aneeshwar gautam,20 Lakh,ALL-ROUNDER,0.2,26.0,Royal Challengers Bangalore,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+168,luvnith sisodia,20 Lakh,WICKETKEEPER,0.2,26.0,Royal Challengers Bangalore,Wicket-Keeper,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+169,sanju samson,Retained,WICKETKEEPER,14.0,1820.0,Rajasthan Royals,Wicket-Keeper,14.0,India,121,117,12,3068,3,15,236,132,29.21,134.2,59,10,8,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,14.0,109.57,2.3078623407244314
+170,jos buttler,Retained,WICKETKEEPER,10.0,1300.0,Rajasthan Royals,Wicket-Keeper,10.0,England,65,64,8,1968,1,11,194,90,35.14,150.0,34,1,1,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,10.0,98.4,1.3939646629280018
+171,prasidh krishna,1 Cr,BOWLER,10.0,1300.0,Rajasthan Royals,Bowler,10.0,India,34,7,5,3,0,0,0,0,1.5,25.0,7,0,5,34,124.2,0,1152,30,2,0,38.4,9.26,24.86,34,3.33,0.33,75.15,1.3939646629280018
+172,shimron hetmyer,1.5 Cr,BATTER,8.5,1105.0,Rajasthan Royals,Batsman,8.5,West Indies,31,29,9,517,0,2,34,31,25.85,151.17,14,0,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.02,8.5,30.41,1.0512530337543406
+173,trent boult,2 Cr,BOWLER,8.0,1040.0,Rajasthan Royals,Bowler,8.0,New Zealand,62,10,7,13,0,0,0,1,4.33,68.42,23,0,6,62,236.1,5,1983,76,5,0,26.09,8.39,18.64,62,0.62,0.11,238.31,0.937015824029787
+174,devdutt padikkal,2 Cr,BATTER,7.75,1007.5,Rajasthan Royals,Batsman,7.75,India,29,29,1,884,1,6,95,22,31.57,125.03,15,0,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.01,7.75,57.03,0.8798972191675102
+175,yuzvendra chahal,2 Cr,BOWLER,6.5,845.0,Rajasthan Royals,Bowler,6.5,India,114,18,12,32,0,0,0,0,5.33,41.02,24,0,5,113,408.0,4,3097,139,9,0,22.28,7.59,17.61,113,0.2,0.05,537.08,0.594304194856126
+176,riyan parag,30 Lakh,ALL-ROUNDER,3.8,494.0,Rajasthan Royals,All-Rounder,3.8,India,30,23,3,339,0,1,29,12,16.95,118.53,12,0,3,15,22.1,0,221,3,0,0,73.66,9.96,44.33,15,0.01,1.27,64.34,-0.022576737656464042
+177,navdeep saini,75 Lakh,BOWLER,2.6,338.0,Rajasthan Royals,Bowler,2.6,India,28,6,3,31,0,0,3,0,10.33,88.57,6,0,1,28,97.4,1,828,17,0,0,48.7,8.47,34.47,28,0.08,0.15,169.42,-0.29674604099539287
+178,nathan coulter-nile,2 Cr,BOWLER,2.0,260.0,Rajasthan Royals,Bowler,2.0,Australia,38,16,5,81,0,0,7,4,7.36,115.71,12,0,1,37,139.5,1,1052,48,5,0,21.91,7.52,17.47,37,0.02,0.04,620.25,-0.43383069266485735
+179,james neesham,1.5 Cr,ALL-ROUNDER,1.5,195.0,Rajasthan Royals,All-Rounder,1.5,New Zealand,12,8,1,61,0,0,3,2,8.71,92.42,1,0,2,12,33.0,0,305,8,1,0,38.12,9.24,24.75,12,0.02,0.19,153.67,-0.548067902389411
+180,karun nair,50 Lakh,BATTER,1.4,182.0,Rajasthan Royals,Batsman,1.4,India,73,66,5,1480,0,10,160,39,24.26,128.36,22,0,3,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,1.4,528.57,-0.5709153443343218
+181,rassie van der dussen,1 Cr,BATTER,1.0,130.0,Rajasthan Royals,Batsman,1.0,South Africa,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1.0,1.0,0.0,-0.6623051121139647
+182,obed mccoy,75 Lakh,BOWLER,0.75,97.5,Rajasthan Royals,Bowler,0.75,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.75,0.75,0.0,-0.7194237169762416
+183,daryl mitchell,75 Lakh,ALL-ROUNDER,0.75,97.5,Rajasthan Royals,All-Rounder,0.75,New Zealand,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.75,0.75,0.0,-0.7194237169762416
+184,anunay singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Rajasthan Royals,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+185,kuldeep sen,20 Lakh,BOWLER,0.2,26.0,Rajasthan Royals,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+186,dhruv jurel,20 Lakh,WICKETKEEPER,0.2,26.0,Rajasthan Royals,Wicket-Keeper,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+187,tejas baroka,20 Lakh,BOWLER,0.2,26.0,Rajasthan Royals,Bowler,0.2,India,1,0,0,0,0,0,0,0,0.0,0.0,0,0,0,1,3.3,0,33,1,0,0,0.0,9.42,0.0,1,0.2,0.2,125.0,-0.8450846476732506
+188,kuldip yadav,20 Lakh,BOWLER,0.2,26.0,Rajasthan Royals,Bowler,0.2,India,1,1,1,1,0,0,0,0,0.0,0.0,0,0,1,1,2.0,0,16,1,0,0,0.0,8.0,0.0,1,0.2,0.2,127.5,-0.8450846476732506
+189,shubham garhwal,20 Lakh,ALL-ROUNDER,0.2,26.0,Rajasthan Royals,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+190,kane williamson,Retained,BATTER,14.0,1820.0,Sunrisers Hyderabad,Batsman,14.0,New Zealand,63,62,15,1885,0,17,165,56,40.1,131.26,29,0,1,2,3.0,0,31,1,0,0,0.0,10.33,0.0,2,0.01,14.0,69.11,2.3078623407244314
+191,nicholas pooran,1.5 Cr,WICKETKEEPER,10.75,1397.5,Sunrisers Hyderabad,Wicket-Keeper,10.75,West Indies,33,31,4,606,0,2,35,44,22.44,154.98,11,0,5,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.02,10.75,28.19,1.5653204775148324
+192,washington sundar,1.5 Cr,ALL-ROUNDER,8.75,1137.5,Sunrisers Hyderabad,All-Rounder,8.75,India,42,26,10,217,0,0,17,6,13.56,111.28,9,0,4,41,125.0,1,867,27,2,0,32.11,6.93,27.77,41,0.04,0.32,89.54,1.1083716386166176
+193,rahul tripathi,40 Lakh,BATTER,8.5,1105.0,Sunrisers Hyderabad,Batsman,8.5,India,62,60,7,1385,0,7,136,48,26.13,136.31,23,0,1,1,1.0,0,12,1,0,0,0.0,12.0,0.0,1,0.01,8.5,84.41,1.0512530337543406
+194,romario shepherd,75 Lakh,ALL-ROUNDER,7.75,1007.5,Sunrisers Hyderabad,All-Rounder,7.75,West Indies,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,7.75,7.75,0.0,0.8798972191675102
+195,abhishek sharma,20 Lakh,ALL-ROUNDER,6.5,845.0,Sunrisers Hyderabad,All-Rounder,6.5,India,22,20,6,241,0,0,17,12,17.21,139.3,5,0,0,14,22.0,0,176,7,0,0,25.14,8.0,18.85,14,0.03,0.93,45.46,0.594304194856126
+196,marco jansen,50 Lakh,ALL-ROUNDER,4.2,546.0,Sunrisers Hyderabad,All-Rounder,4.2,South Africa,2,2,0,1,0,0,0,0,0.0,0.0,1,0,2,2,6.0,0,45,2,0,0,22.5,7.5,18.0,2,4.2,2.1,12.02,0.06881303012317899
+197,bhuvneshwar kumar,2 Cr,BOWLER,4.2,546.0,Sunrisers Hyderabad,Bowler,4.2,India,132,51,25,217,0,0,20,3,8.34,96.87,27,0,9,132,491.3,9,3588,142,9,1,25.26,7.3,20.76,132,0.02,0.03,871.07,0.06881303012317899
+198,abdul samad,Retained,ALL-ROUNDER,4.0,520.0,Sunrisers Hyderabad,Batsman,4.0,India,23,18,4,222,0,0,12,14,15.85,146.05,13,0,2,4,8.0,0,105,2,0,0,52.5,13.12,24.0,4,0.02,2.0,40.25,0.02311814623335748
+199,umran malik,Retained,BOWLER,4.0,520.0,Sunrisers Hyderabad,Bowler,4.0,India,3,0,0,0,0,0,0,0,0.0,0.0,0,0,0,3,12.0,0,96,2,0,0,48.0,8.0,36.0,3,4.0,2.0,12.5,0.02311814623335748
+200,kartik tyagi,20 Lakh,BOWLER,4.0,520.0,Sunrisers Hyderabad,Bowler,4.0,India,14,5,3,6,0,0,0,0,3.0,60.0,3,0,1,14,52.1,0,491,13,0,0,37.76,9.41,24.07,14,0.67,0.31,82.0,0.02311814623335748
+201,aiden markram,1 Cr,BATTER,2.6,338.0,Sunrisers Hyderabad,Batsman,2.6,South Africa,6,6,1,146,0,0,12,4,29.2,122.68,3,0,0,2,4.0,0,23,1,0,0,0.0,5.75,0.0,2,0.02,2.6,37.69,-0.29674604099539287
+202,sean abbott,75 Lakh,BOWLER,2.4,312.0,Sunrisers Hyderabad,Bowler,2.4,Australia,2,2,0,15,0,0,1,1,7.5,115.38,0,0,0,2,5.0,0,57,1,0,0,0.0,11.4,0.0,2,0.16,2.4,13.54,-0.3424409248852144
+203,glenn phillips,1.5 Cr,WICKETKEEPER,1.5,195.0,Sunrisers Hyderabad,Wicket-Keeper,1.5,New Zealand,3,3,1,26,0,0,1,2,13.0,78.78,1,0,0,2,2.0,0,20,1,0,0,20.0,10.0,12.0,2,0.06,1.5,25.33,-0.548067902389411
+204,shreyas gopal,20 Lakh,BOWLER,0.75,97.5,Sunrisers Hyderabad,Bowler,0.75,India,48,21,7,171,0,0,17,2,12.21,105.55,11,0,4,47,155.1,1,1247,48,4,0,25.97,8.03,19.39,47,0.0,0.02,1714.0,-0.7194237169762416
+205,vishnu vinod,20 Lakh,WICKETKEEPER,0.5,65.0,Sunrisers Hyderabad,Wicket-Keeper,0.5,India,3,3,0,19,0,0,1,1,6.33,73.07,0,2,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.03,0.5,19.0,-0.7765423218385185
+206,fazalhaq farooqi,50 Lakh,BOWLER,0.5,65.0,Sunrisers Hyderabad,Bowler,0.5,Afghanistan,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.5,0.5,0.0,-0.7765423218385185
+207,priyam garg,20 Lakh,BATTER,0.2,26.0,Sunrisers Hyderabad,Batsman,0.2,India,19,15,1,205,0,1,11,7,14.64,110.81,6,0,2,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.0,0.2,512.5,-0.8450846476732506
+208,jagadeesha suchith,20 Lakh,BOWLER,0.2,26.0,Sunrisers Hyderabad,Bowler,0.2,India,17,8,6,68,0,0,6,3,34.0,128.3,9,0,2,16,52.0,0,462,12,0,0,38.5,8.88,26.0,16,0.0,0.02,1670.0,-0.8450846476732506
+209,shashank singh,20 Lakh,ALL-ROUNDER,0.2,26.0,Sunrisers Hyderabad,All-Rounder,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+210,saurabh dubey,20 Lakh,BOWLER,0.2,26.0,Sunrisers Hyderabad,Bowler,0.2,India,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0.2,0.2,0.0,-0.8450846476732506
+211,lalit yadav,20 Lakh,BOWLER,0.0,0.0,Unsold,All-Rounder,0.65,India,7,5,3,68,0,0,7,0,34.0,93.15,5,0,1,5,14.0,0,101,4,0,0,25.25,7.21,21.0,5,0.0,0.0,inf,-0.8907795315630721
