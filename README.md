@@ -2,7 +2,7 @@
 ## 🔧 Tools Used
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Google Colab / Jupyter Notebook**
+- **Google Colab**
 - **Power BI Desktop**
 
 
